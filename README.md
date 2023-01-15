@@ -22,4 +22,4 @@ The code scripts are written in Matlab and Python.
 
 
 # Supplement
-The functional connection matrix is plotted as a 3D topology by the MATLAB toolbox BrainNet Viewer compiled by Matlab2018a.
+The functional connection matrix is plotted as a 3D brain network topography by the MATLAB toolbox BrainNet Viewer compiled by Matlab2018a.
